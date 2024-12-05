@@ -1,6 +1,6 @@
 
 //url
-export const base = 'http://192.168.1.64:5000';
+export const base = 'https://full-stack-7ffb.onrender.com';
 export const baseUrl = `${base}/api`;
 
 
