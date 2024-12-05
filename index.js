@@ -10,7 +10,7 @@ import cookieParser from "cookie-parser";
 
 const app = express();
 app.use(cors({
-  origin: ['http://localhost:3000', 'https://mern-shrawan.vercel.app'],
+  origin: ['http://localhost:3000', 'https://full-stack-five-delta.vercel.app'],
   credentials: true,
 }));
 app.use(cookieParser());
